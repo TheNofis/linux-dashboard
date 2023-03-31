@@ -1,9 +1,5 @@
 # linux-dashboard
 
->## Todo
->_A_ - _TheNofis_ <br/>
->_B_ - _BuT9l_<br/>
-
 >## _A_ - _TheNofis_
 >>_A_ -> Думает над дизайном, и его реализацией.<br/>
 >>_A_ -> Ждет первый прототип backend от _B_<br/>
